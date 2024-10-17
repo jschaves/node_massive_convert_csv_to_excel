@@ -1,7 +1,6 @@
 const fs = require('node:fs');
 const path = require('path');
 const convertCsvToXlsx = require('csvtoxlsxconverter');
-const header = null;
 
 let files = [];
 fs.readdir('./ORIGINAL',(err, result) => {
