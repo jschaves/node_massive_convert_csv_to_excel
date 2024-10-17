@@ -9,4 +9,4 @@ Crea una carpeta con los CSV en este caso uso el nombre ORIGINAL y otra que llam
 
 El script recorre todos los archivos CSV de la carpeta ORIGINAL y los convierte en XLSX en la carpeta COPIA.
 
-Ejecuta con node massive_csv_to_xlsx.js
+Ejecuta con: node massive_csv_to_xlsx.js
