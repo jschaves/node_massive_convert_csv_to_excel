@@ -1,4 +1,4 @@
-# Masivo csv a excel (XLSX) con Node.js
+# Masivo (CSV) a excel (XLSX) con Node.js
 Recorre una carpeta con archivos CSV y convierte todo el contenido a (XLSX) con @imrandil/csv-to-excel-converter
 
 Simple script con Nodejs que recorre una carpeta con archivos CSV y los convierte a (XLSX)
